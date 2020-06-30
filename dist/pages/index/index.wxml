@@ -1,0 +1,7 @@
+<block wx:if="{{$taroCompReady}}">
+    <view class="index"><text>Hello world!</text>
+        <at-button compid="{{$compid__17}}">mother fucker</at-button>
+        <at-fab>test</at-fab>
+        <at-checkbox></at-checkbox>
+    </view>
+</block>
